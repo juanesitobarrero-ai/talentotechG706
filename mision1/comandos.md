@@ -14,3 +14,7 @@
 ``git push -u origin master``
 ``git clone "Clonar repertorio disponible"``
 ``Set-ExecutionPolicy Unrestricted  "Para habilitar ejecución de "comandos"``
+`dir` -> consultar el directorio donde estoy ubicado y el directorio próximo
+`python --version` -> Consultar versión de python  
+`python -m venv env312` -> crear un entorno virtual en python 
+``env312\scripts\activate`` -> Activar el entorno virtual de python
