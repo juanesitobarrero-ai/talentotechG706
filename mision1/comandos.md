@@ -18,3 +18,4 @@
 ``python --version "Consultar versión de python"``  
 ``python -m venv env312 "Crear un entorno virtual en python"``
 ``env312\scripts\activate "Activar el entorno virtual de python"``
+``pip list "Librerias instaladas"``
