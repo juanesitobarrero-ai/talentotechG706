@@ -19,3 +19,8 @@
 ``python -m venv env312 "Crear un entorno virtual en python"``
 ``env312\scripts\activate "Activar el entorno virtual de python"``
 ``pip list "Librerias instaladas"``
+``python.exe -m pip install --upgrade pip``
+``pip install pandas numpy matplotlib``
+``pip install pandas "pandas -> manejo de datos"``
+``pip install  numpy "numpy -> cálculo matemático"``
+``pip install matplotlib "matplolib ->gráficos "``
